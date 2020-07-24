@@ -1,0 +1,27 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 4em;
+  background-color: white;
+}
+header {
+  background-image: url("https://cdn.glitch.com/2f65bed1-57e0-46d2-9182-750158697808%2Fmoscow-city-buildings-silhouette-russian-260nw-552820039%20-%20Edited%20(1).png?v=1584804093689");
+}
+h1 {
+  font-style: bold;
+  color: black;
+}
+h2 {
+  color: black;
+}
+p {
+  color: black;
+}
+h4 {
+  color: black;
+  background-color: white;
+}
+section {
+  margin: 2em;
+}

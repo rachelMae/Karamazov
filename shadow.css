@@ -1,0 +1,27 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 4em;
+  background-color: Black;
+}
+header {
+  background-image: url("https://cdn.glitch.com/2f65bed1-57e0-46d2-9182-750158697808%2Fdownload%20(1).png?v=1584825845050");
+}
+h1 {
+  font-style: bold;
+  color: White;
+}
+h2 {
+  color: white;
+}
+p {
+  color: white;
+}
+h4 {
+  color: white;
+  background-color: black;
+}
+section {
+  margin: 2em;
+}
